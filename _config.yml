@@ -29,7 +29,7 @@ twitter_username: sofiestubkjaerchristensen
 github_username:  StubChris
 
 # Build settings
-remote_theme: jekyll-theme-dinky
+remote_theme: minima
 plugins:
   - jekyll-feed
 
