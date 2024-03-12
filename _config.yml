@@ -30,7 +30,7 @@ github_username:  stubben
 
 # Build settings
 #theme: minima
-theme: minima
+theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
 
