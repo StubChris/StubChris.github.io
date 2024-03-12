@@ -29,9 +29,8 @@ twitter_username: sofiestubkjaerchristensen
 github_username:  StubChris
 
 # Build settings
-remote_theme: pages-themes/dinky@v0.2.0
+remote_theme: dinky
 plugins:
-  - jekyll-remote-theme 
   - jekyll-feed
 
 # Exclude from processing.
