@@ -29,8 +29,8 @@ twitter_username: stubben
 github_username:  stubben
 
 # Build settings
-#theme: minima
-theme: jekyll-theme-dinky
+theme: minima
+#theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
 
