@@ -23,5 +23,15 @@ As the aggragated statistics indicate that the city overall is getting wealthier
 
 ## Geographical patterns in theft
 
+We examine the geographical pattern in the increase of theft in San Fransisco from 2012 to 2017. We plot the number of repports of theft in each district in each year. We see that the increase in thefts is happening in the districts Southern, Central, Northern and Mission. 
+The district Tenderloin is surrounded by districts where crime increases, but sees almost no increase in thefts over time. That is extremely weird? is it because there is no crime or is it because the police is somewhere else/or the people are underrapportering the crime. According to wikipedia tenderloin is a district with a high amount of violent crime. It is partielly because the plot shows the raw counts of crime, and tenderloin is smaller than all the other districts and the comparison of raw counts of crime between tenderloin and the other districts is not meaningfull.Ideally the crime would be normalized against something the number of inhabitants. 
 
+Tenderloin has a lot of crime pr square kilometer, that is a lot of crime for its size. There is however not any noteworthy increases in crime in the district across the years
+
+The surrounding districts also experience increases in theft but the magnitude is smaller. 
+
+Is the pattern similar for other types of crime?
+
+
+![]( /docs/assets/Thefts_sanfransisco_map_raw_count.html)
 
