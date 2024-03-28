@@ -8,6 +8,7 @@ categories: jekyll update
 # Assignment 2
 
 **Description of the data**
+
 The Government of San Fransisco publishes a variety of government datasets including a historical dataset on reports of crime incidents in San Fransisco. The dataset describes every report of a crime in San Fransisco during the years 2003-2018. The incident reports contain geographical information as well as details about the type and time of the crime. The dataset can be found [here](https://data.sfgov.org/browse?category=Public+Safety)
 
 ### Increases in property crime in San Fransisco
@@ -25,7 +26,10 @@ As the aggregated statistics indicate that the city overall is getting wealthier
 
 
 Is the increase in theft driven by one specific district? I map the development in theft reports from 2003 to 2017 across the police districts in San Fransisco. I indexed the development in theft against the theft level in 2003. The plot displays the yearly increase or decrease in theft compared to the 2003 level. The plot shows that in most districts the crime level was going down compared to 2003. In 2013 the number of theft reports increased across all districts by at least 20% compared to the 2003 level. The Districts Southern, Mission, and Richmond experienced a 50% increase in crime levels compared to 2003. From 2023 to 2018 theft has increased by at least 100% since 2003 in Central, Northern, Mission, and Richmond. 
+
 <embed type="text/html" src="/docs/assets/Thefts_sanfransisco_map_theft_increase_since_2003.html" width="1200" height="700"></embed>
+
+
 To identify the most crime-torn districts I have calculated theft per square kilometer. Tenderloin was the most crime-torn district in 2003, followed by Southern, Central, and then Northern. The pattern is the same in 2011. Having that in mind, the plot tells us that, the spike in thefts in San Fransisco, is due to increases in theft in districts Mission and Richmond, which before 2012 had low rates of theft, and increases in theft in districts that were already crime-torn.   
 
 Tenderloin is a curious district because the district there has only been a 12% increase in thefts since 2003, but it is still the district with the highest number of thefts reported per square kilometer. 
@@ -37,4 +41,11 @@ The question is, if it is only theft that follows this tendency, or if the distr
 ## Geographical patterns in other types of crime
 
 
+I toget: skriv
+
+I compare the percentual development across districts for othe types of crime
+
+**Be aweare that the the measure is sensitive to increases in rare types of crime.**
+
 <embed type="text/html" src="/docs/assets/Crime_district_year_interact.html" width="1200" height="700"></embed>
+
