@@ -33,6 +33,13 @@ The surrounding districts also experience increases in theft but the magnitude i
 Is the pattern similar for other types of crime?
 
 
-<iframe src="/docs/assets/Heatmap_drugs.html"></iframe>
+
+<embed type="text/html" src="/docs/assets/Heatmap_drugs.html" width="600" height="400"></embed>
 
 
+<embed type="text/html" src="/docs/assets/Thefts_sanfransisco_map_raw_count.html" width="600" height="400"></embed>
+
+## Geographical patterns in focus crime
+
+
+<embed type="text/html" src="/docs/assets/Crime_district_year_interact.html" width="600" height="400"></embed>
