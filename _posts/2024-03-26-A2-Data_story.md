@@ -26,7 +26,7 @@ Having that in mind the plot tells us that there is a tendency of districts with
 ## Geographical patterns in other types of crime
 I saw that district with high levels of theft, had experienced the biggest increase in theft. Does the increased theft rate reflect a general increase in all types of crime? To answer that question, I plot the raw number of reports across all types of focus crime. I compare the number of reports in three years. 2003, the index year in the prior plot, 2013, the year where theft rates spiked across San Fransisco, and 2017 the last year of the data. 
 
-<embed type="text/html" src="/docs/assets/Crime_district_year_interact.html" width="1200" height="700"></embed>
+<embed type="text/html" src="/docs/assets/Crime_district_year_interact2.html" width="1200" height="700"></embed>
 
 The plot shows that theft is by far the most frequent crime in San Fransisco, as well as the type of crime that has had the biggest increase in the number of incident reports. 
 In general, most types of focus crime have decreased. While assaults and vandalism have increased since 2003, however not as drastically as theft, all other types of focus crime have decreased. Reports of drugs and narcotics have even dropped drastically. 
