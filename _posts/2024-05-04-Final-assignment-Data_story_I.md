@@ -59,7 +59,7 @@ With the two stronges indicators of high electoral participation in 2019 where t
 
 In 2019 the richest part of the city was Østerbro (1. Syd) and Nordhavn (1. Øst).However the areas in the city that experienced the largest increase in median household income was Amager (2. Sundbyvester), Norvest(6. Bispebjerg) and Sydhavn (9. Sudhavn). Meanwhile the parts of the city that had the largest drop in recipients of social benefits, where Nordvest (6. Nord), Christianshavn (3. Syd)) and Amager (2. Sundbyvester). Sundbyvester in Amagaer has had the largest increase in median household income and at the same time the largest drop in people reciving social benefits. 
 
-<embed type="text/html" src="/docs/assets/Final/social_benefit_difference_2._Sundbyvester_perc_pop_social_benefits_and_turnout.html" width="800" height="300"></embed>
+<embed type="text/html" src="/docs/assets/Final/social_benefit_difference_2._Sundbyvester_perc_pop_social_benefits_and_turnout.html" width="900" height="400"></embed>
 
 
 <embed type="text/html" src="/docs/assets/Final/social_benefit_difference_3._Syd_perc_pop_social_benefits_and_turnout.html" width="900" height="400"></embed>
