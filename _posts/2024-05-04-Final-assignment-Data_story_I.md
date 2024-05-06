@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A2: A short data story"
+title:  "Final Assignment"
 date:   2024-05-04 11:57:26 +0100
 categories: jekyll update
 ---
