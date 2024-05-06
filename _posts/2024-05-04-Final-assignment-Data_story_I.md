@@ -59,18 +59,18 @@ With the two stronges indicators of high electoral participation in 2019 where t
 
 In 2019 the richest part of the city was Østerbro (1. Syd) and Nordhavn (1. Øst).However the areas in the city that experienced the largest increase in median household income was Amager (2. Sundbyvester), Norvest(6. Bispebjerg) and Sydhavn (9. Sudhavn). Meanwhile the parts of the city that had the largest drop in recipients of social benefits, where Nordvest (6. Nord), Christianshavn (3. Syd)) and Amager (2. Sundbyvester). Sundbyvester in Amagaer has had the largest increase in median household income and at the same time the largest drop in people reciving social benefits. 
 
-<embed type="text/html" src="/docs/assets/Final/social_benefit_difference_2._Sundbyvester_perc_pop_social_benefits_and_turnout.html" width="1000" height="500"></embed>
+<embed type="text/html" src="/docs/assets/Final/social_benefit_difference_2._Sundbyvester_perc_pop_social_benefits_and_turnout.html" width="800" height="300"></embed>
 
 
-<embed type="text/html" src="/docs/assets/Final/social_benefit_difference_3._Syd_perc_pop_social_benefits_and_turnout.html" width="1000" height="500"></embed>
+<embed type="text/html" src="/docs/assets/Final/social_benefit_difference_3._Syd_perc_pop_social_benefits_and_turnout.html" width="800" height="300"></embed>
 
-<embed type="text/html" src="/docs/assets/Final/social_benefit_difference_6._Nord_perc_pop_social_benefits_and_turnout.html" width="1000" height="500"></embed>
+<embed type="text/html" src="/docs/assets/Final/social_benefit_difference_6._Nord_perc_pop_social_benefits_and_turnout.html" width="800" height="300"></embed>
 
-<embed type="text/html" src="/docs/assets/Final/Vincome_difference_2._Sundbyvester_median_household_income_and_turnout.html" width="1000" height="500"></embed>
+<embed type="text/html" src="/docs/assets/Final/Vincome_difference_2._Sundbyvester_median_household_income_and_turnout.html" width="800" height="300"></embed>
 
-<embed type="text/html" src="/docs/assets/Final/income_difference_6._Bispebjerg_median_household_income_and_turnout.html" width="1000" height="500"></embed>
+<embed type="text/html" src="/docs/assets/Final/income_difference_6._Bispebjerg_median_household_income_and_turnout.html" width="800" height="300"></embed>
 
-<embed type="text/html" src="/docs/assets/Final/income_difference_9._Sydhavn_median_household_income_and_turnout.html" width="1000" height="500"></embed>
+<embed type="text/html" src="/docs/assets/Final/income_difference_9._Sydhavn_median_household_income_and_turnout.html" width="800" height="300"></embed>
 
 
 The biggest changes in income and recipients of social benefits, are happening in the parts of Copenhagen that have expanded over the years, and where the municipality of Copenhagen have invested a lot of money in renovating the city [(KK.dk)](https://www.kk.dk/sites/default/files/agenda/b61fbc4f-8f28-4908-868e-ea5d04fd9f59/daea7250-d16e-4755-84a4-62741ea9acb8-bilag-2.pdf). 
