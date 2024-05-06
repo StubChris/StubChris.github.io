@@ -1,12 +1,9 @@
 ---
 layout: post
-title:  "Final Assignment"
+title:  "Getting younger and richer has increased electoral participation in Copenhagen"
 date:   2024-05-04 11:57:26 +0100
 categories: jekyll update
 ---
-
-
-# Getting younger and richer has increased electoral participation in Copenhagen.
 
 ## The problem of low electoral participation in European elections
 The next European election is close. The 9th of June 2024 Copenhageners will go to the polls to elect their representatives for the European Parliament. As election day comes closer campaigns are launched to motivate voters to cast their ballot in the election. The attempts to get voters out and vote, stem from the fact that the Danish elections for the European Parliament are known for low electoral participation. Whereas 84-87% of the Danish voters participate in national elections [(dr.dk)](https://www.dr.dk/nyheder/politik/folketingsvalg/valgdeltagelsen-var-den-laveste-i-mere-end-30-aar-der-er-grund-til), only 66% of the voters participated in the last European election in 2019. The reasons for low voter turnout are many, but researchers point toward socio-demographic factors such as income, age and education in explaining why some people decide to vote and others don’t. [(Møller 2020)](https://cvap.polsci.ku.dk/forskning/valgdeltagelse/papers_og_rapporter/valgdeltagelse_ev19.pdf).
