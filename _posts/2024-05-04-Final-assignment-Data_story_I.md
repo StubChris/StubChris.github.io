@@ -16,11 +16,11 @@ In this article we draw on data from the Danish electoral database, to explore t
 
 The electoral participation in European elections in Copenhagen have increased. From 2004 to 2019 the voter turnout has increased from 48% to 68%. The map below displays the development in voter turnout in the European elections in 2004, 2009, 2024 and 2019. For each year the turnout in the polling area of Copenhagen are displayed. Polling areas are the smallest geographical unit in an election setup, and describes the area within which all citizens has to vote at the same poll. 
 
-INSERT TIME SLIDER MAP
+<embed type="text/html" src="/docs/assets/Final/Voter_turnout_copenhagen_Eurpean_election_2004_019_timeslider.html" width="1200" height="700"></embed>
 
 In the last European election in 2019, the turnout in Copenhagen was slightly above the national level, with 68.1% of the voters casting their ballot. However, there is a huse variation in turnout between polling areas in Copenhagen. While the 77% of the voters living in Østerbro cast their ballot, only 42.6% of the voters in the outskirts of Brønshøj voted in the election. Within Copenhagen the difference between the polling area with the highest electoral participation and the polling area with the lowest electoral participation is 36 percentage points.  
 
-INSER DISTRIBUTION
+![]( /docs/assets/Final/Turnout_df19s_EP_2019_barplot.png)
 
 
 When we examine voter turnout across the polling areas of the city we see, that the polling areas with the highest voter turnout are the residential areas on Østerbro close to the lakes (3. Nord, 1. Syd, 5. Øst) and the polling area on Vesterbro covering Enghave Plads. Here at least 77% of the voters cast their ballot. 
@@ -32,14 +32,15 @@ When we explore the electoral participation of Copenhageners over time, we see t
 
 We plot the polling areas with the highest and lowest increases in turnout. The polling areas in the periphery of Copenhagen that had a low voter turnout in 2019 are also the polling areas that have had the smallest increase in voter turnout since 2019. Meanwhile, areas in Amager, Nordvest and Vesterbro have seen the biggest increase in turnout. 
 
-INSERT MAP WITH DIFFERENCES 20% HIGH LOW
+
+<embed type="text/html" src="/docs/assets/Final/Voter_turnout_copenhagen_European_election_development_2004_2019_highlight_percentile.html" width="1200" height="700"></embed>
 
 
 The area that has seen the largest increase in voter turnout is in Amager (2. Øst), where there the past decase has been build a lot of new private housing. Here the Voter turnout has increased by 27 percentage points. The area with the smallest increase is in Brønshøj (7. Nord), where the electoral participation was also the lowest in 2019. The district on the other hand covers a large area with public housing. In Brønshøj the voter turnout has increased with 8 percentage points from 2004 to 2019, meanwhile the turnout of the entire City had increased by 20 percentage points. 
 
 
-INSERT VOTER TURN OUT DIFFERENCE. 2. øst 7. nord 
 
+![]( /docs/assets/Final/Voter_turnout_copenhagen_Eurpean_election_2004_019_timeslider.png)
 
 ## What explains differences in voter turnout across Copenhagen?
 The turnout in European elections has increased in Copenhagen. However, the difference in voter turnout across the city has also increased. What explains this? To answer the question we explore the relationship between turnout and socio-demographic indicators in the election in 2019. 
@@ -49,7 +50,7 @@ The correlation plot shows that wealth indicators such as median household incom
 Lastly, age displays a curious pattern. Areas with a higher percentage of young people below 25 and areas with a high percentage of people above 70, tend to have lower turnouts. Meanwhile, areas with a larger group of voters in the age from 44 to 55 tend to have higher turnouts. 
 
 
-INSERT SCATTERPLOT
+![]( /docs/assets/Final/scatterplot_cor.png)
 
 
 ### Copenhagen – a city in growth (Income, social benefits and electoral particpation)
@@ -61,7 +62,17 @@ With the two stronges indicators of high electoral participation in 2019 where t
 
 In 2019 the richest part of the city was Østerbro (1. Syd) and Nordhavn (1. Øst).However the areas in the city that experienced the largest increase in median household income was Amager (2. Sundbyvester), Norvest(6. Bispebjerg) and Sydhavn (9. Sudhavn). Meanwhile the parts of the city that had the largest drop in recipients of social benefits, where Nordvest (6. Nord), Christianshavn (3. Syd)) and Amager (2. Sundbyvester). Sundbyvester in Amagaer has had the largest increase in median household income and at the same time the largest drop in people reciving social benefits. 
 
-INSERT 6. NORD, 3. SYD,  AND 2. SUNDBY VESTER (SOCIAL OG INCOME), 9. SYDHAVN INCOME , 6. BISPEBJERG INCOME 
+<embed type="text/html" src="/docs/assets/Final/social_benefit_difference_2._Sundbyvester_perc_pop_social_benefits_and_turnout.html" width="1200" height="700"></embed>
+
+<embed type="text/html" src="/docs/assets/Final/social_benefit_difference_3._Syd_perc_pop_social_benefits_and_turnout.html" width="1200" height="700"></embed>
+
+<embed type="text/html" src="/docs/assets/Final/social_benefit_difference_6._Nord_perc_pop_social_benefits_and_turnout.html" width="1200" height="700"></embed>
+
+<embed type="text/html" src="/docs/assets/Final/Vincome_difference_2._Sundbyvester_median_household_income_and_turnout.html" width="1200" height="700"></embed>
+
+<embed type="text/html" src="/docs/assets/Final/income_difference_6._Bispebjerg_median_household_income_and_turnout.html" width="1200" height="700"></embed>
+
+<embed type="text/html" src="/docs/assets/Final/income_difference_9._Sydhavn_median_household_income_and_turnout.html" width="1200" height="700"></embed>
 
 
 The biggest changes in income and recipients of social benefits, are happening in the parts of Copenhagen that have expanded over the years, and where the municipality of Copenhagen have invested a lot of money in renovating the city [(KK.dk)](https://www.kk.dk/sites/default/files/agenda/b61fbc4f-8f28-4908-868e-ea5d04fd9f59/daea7250-d16e-4755-84a4-62741ea9acb8-bilag-2.pdf). 
@@ -74,7 +85,8 @@ In the polling areas where many women live, the electoral participation in Europ
 
 Gender can still be part of the explanation for why voters in some districts are less prone to vote. As the data only contains aggregated information about the population in the polling areas, and not data on an individual level, we cannot test if female voters are more prone to cast their ballots in the European elections. However, we can plot the development the percentage of women in areas with the highest and biggest increases in voter turnout. 
 
-INSERT PLOT WITH GENDER!!
+
+![]( /docs/assets/Final/Most_least_turnout_increase_districts_gender.png)
 
 
 We see that most areas that have had a large increase in voter turnout, have also seen a slight increase in the female population. Oppositely the areas with the smallest increase in voter turnout have seen a slight decrease in female population over the years. 
@@ -86,7 +98,8 @@ The results might indicate, that female voters are more prone to cast their ball
 
 The population in Copenhagen is not only growing, but it is also getting younger. The data shows a general increase in population, that is mostly driven by young people moving to the city. 
 
-[Insert dimitris]
+<embed type="text/html" src="/docs/assets/Final/plot_for_doc.html" width="1200" height="700"></embed>
+
 
 The areas that have seen the biggest increase in young population are placed in Amager and Nørrebro. While a large young population is associated with lower voter turnout, the areas that have seen an increase in young people have also seen an increase in electoral participation. 
 
