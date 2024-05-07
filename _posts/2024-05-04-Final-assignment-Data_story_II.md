@@ -13,7 +13,7 @@ In this article we draw on data from the Danish electoral database, to explore t
 
 The electoral participation in European elections in Copenhagen have increased. From 2004 to 2019 the voter turnout has increased from 48% to 68%. The map below displays the development in voter turnout in the European elections in 2004, 2009, 2024 and 2019. For each year the turnout in the polling area of Copenhagen are displayed. Polling areas are the smallest geographical unit in an election setup, and describes the area within which all citizens has to vote at the same poll. 
 
-<embed type="text/html" src="/docs/assets/Final/Voter_turnout_2004_019_timeslider.html" width="1200" height="700"></embed>
+<embed type="text/html" src="/docs/assets/Final/Voter_turnout_2004_019_timeslider.html" width="1200" height="700"><
 
 ![]( /docs/assets/Final/Turnout_df19s_EP_2019_barplot.png)
 
@@ -30,7 +30,7 @@ Meanwhile voters in Brønshøj (7. Nord, 7. Vest) and Bispebjerg (6. Vest) where
 The polling areas in the periphery of Copenhagen that had a low voter turnout in 2019 are also the polling areas that have had the smallest increase in voter turnout since 2019. Meanwhile, areas in Amager, Nordvest and Vesterbro have seen the biggest increase in turnout. 
 
 
-<embed type="text/html" src="/docs/assets/Final/Voter_turnout_development_2004_2019_highlight.html" width="1200" height="700"></embed>
+<embed type="text/html" src="/docs/assets/Final/Voter_turnout_development_2004_2019_highlight.html" width="1200" height="700">
 
 
 The area that has seen the largest increase in voter turnout is in Amager (2. Øst), where there the past decase has been build a lot of new private housing. Here the Voter turnout has increased by 27 percentage points. The area with the smallest increase is in Brønshøj (7. Nord), where the electoral participation was also the lowest in 2019. The district on the other hand covers a large area with public housing. In Brønshøj the voter turnout has increased with 8 percentage points from 2004 to 2019, meanwhile the turnout of the entire City had increased by 20 percentage points. 
@@ -114,7 +114,7 @@ We see that most areas that have had a large increase in voter turnout, have als
 
 The population in Copenhagen is not only growing, but it is also getting younger. The data shows a general increase in population, that is mostly driven by young people moving to the city. The visualisation below, explores the development across different age groups from 2004 to 2019.
 
-<embed type="text/html" src="/docs/assets/Final/plot_for_doc.html" width="1000" height="500"></embed>
+<embed type="text/html" src="/docs/assets/Final/plot_for_doc.html" width="1000" height="500">
 
 
 Our analysis also shows that the areas that have seen the biggest increase in the young population are Amager (2. Syd, 2. Sundbyvester), Nørrebro (5. Nord, 5. Nørrebro) and Nordvest (6.Bispebjerg). While a large young population is associated with lower voter turnout, the areas that have seen an increase in young people have also seen an increase in electoral participation. 
