@@ -151,6 +151,9 @@ These areas have seen a drop in social benefits recipients, and an increase in i
 
 As a side effect, the electoral participation in these areas have increased. While large parts of the city have experienced increases in income and a younger population, the Northern part of Brønshøj and Vanløse, have not seen the same changes in population, and the voter turnout in these areas have changes only little in comparison to the rest of the city. 
 
+# Explainer notebook
+
+[FIND THE NOTEBOOK HERE](https://github.com/iliaschi/SODA_explainer_notebk)
 
 **Contribution**
 
