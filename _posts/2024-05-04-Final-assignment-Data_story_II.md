@@ -13,7 +13,8 @@ In this article we draw on data from the Danish electoral database, to explore t
 
 The electoral participation in European elections in Copenhagen have increased. From 2004 to 2019 the voter turnout has increased from 48% to 68%. The map below displays the development in voter turnout in the European elections in 2004, 2009, 2024 and 2019. For each year the turnout in the polling area of Copenhagen are displayed. Polling areas are the smallest geographical unit in an election setup, and describes the area within which all citizens has to vote at the same poll. 
 
-<embed type="text/html" src="/docs/assets/Final/Voter_turnout_2004_019_timeslider.html" width="1200" height="700"><
+<embed type="text/html" src="/docs/assets/Final/Voter_turnout_2004_019_timeslider.html" width="1200" height="700">
+
 
 ![]( /docs/assets/Final/Turnout_df19s_EP_2019_barplot.png)
 
