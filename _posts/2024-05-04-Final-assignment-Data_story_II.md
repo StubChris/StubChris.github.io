@@ -99,7 +99,7 @@ And because in population, the median income and the social benefits are the opp
 
 ### Do women vote more?
 
-In the polling areas where many women live, the electoral participation in European elections tends to be higher.The areas with higer percentages of female inhabitants are assosiated with higher voter turnout. However, there has not been an increase in the female population in Copenhagen over the past decade. It is therefore not an increase in the female population that explains the overall increase in voter turnout from 2004 to 2019. 
+In the polling areas where many women live, the electoral participation in European elections tends to be higher.The areas with higer percentages of female inhabitants are assosiated with higher voter turnout. However, there has *not* been an increase in the female population in Copenhagen over the past decade. It is therefore not an increase in the female population that explains the overall increase in voter turnout from 2004 to 2019. 
 
 Gender can still be part of the explanation for why voters in some districts are less prone to vote. As the data only contains aggregated information about the population in the polling areas, and not data on an individual level, we cannot test if female voters are more prone to cast their ballots in the European elections. However, we can plot the development the percentage of women in areas with the highest and biggest increases in voter turnout. 
 
@@ -109,7 +109,7 @@ Gender can still be part of the explanation for why voters in some districts are
 
 We see that most areas that have had a large increase in voter turnout, have also seen a slight increase in the female population. Oppositely the areas with the smallest increase in voter turnout have seen a slight decrease in female population over the years. 
 
-**The results might indicate, that female voters are more prone to cast their ballot. This might be explained by more young women moving to the city to study than men, and therefore could reflect a difference in educational level rather than a gender difference.**
+**The results might suggest, that female voters are more prone to cast their ballot than male voters. However, we would need individual level data, to determine the relationship between gender an turnout**
 
 ### More young people, higher turnout?   
 
@@ -154,6 +154,6 @@ As a side effect, the electoral participation in these areas have increased. Whi
 
 **Contribution**
 
-- Sofie : preprocessing, geographical plotting, gender analysis part, voter turnout, project report, merging
+- Sofie : preprocessing, geographical plotting, gender analysis part, voter turnout, data story, merging, explainer notebook.
 - Ilias : correlations, median income analysis part , social benefits analysis part, clustering, project report, merging
-- Dimitris : basic stats and analysis, age analysis and plots, merging, project report, insights
+- Dimitris : basic stats and analysis, age analysis and plots, merging, project report, insight, explainer notebook
